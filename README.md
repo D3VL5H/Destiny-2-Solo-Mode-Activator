@@ -5,7 +5,7 @@ The simplest Destiny 2 solo mode activator: D2Solo
 
 # What does D2Solo do?
 D2Solo creates firewall rules to block ports used by Destiny 2.  
-So you won't be matched with another player.
+So you won't be matched with other players.
 
 # How do I use it?
 It is simple! Just press the ON button. Then Solo Mode will be activated.  
