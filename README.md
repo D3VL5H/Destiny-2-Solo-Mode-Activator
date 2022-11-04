@@ -1,3 +1,6 @@
+### [[English]](https://github.com/DevLsh/Destiny-2-Solo-Mode-Activator/blob/main/README.md)
+### [[한국어]](https://github.com/DevLsh/Destiny-2-Solo-Mode-Activator/edit/main/README.KO.md)
+
 # Destiny-2-Solo-Mode-Activator
 The simplest Destiny 2 solo mode activator: D2Solo
 
