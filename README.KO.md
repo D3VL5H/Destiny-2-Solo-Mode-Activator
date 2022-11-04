@@ -1,4 +1,4 @@
-### [[English]](https://github.com/DevLsh/Destiny-2-Solo-Mode-Activator/blob/main/README.md) [[한국어]](https://github.com/DevLsh/Destiny-2-Solo-Mode-Activator/edit/main/README.KO.md)
+### [[English]](https://github.com/DevLsh/Destiny-2-Solo-Mode-Activator/blob/main/README.md) [[한국어]](https://github.com/DevLsh/Destiny-2-Solo-Mode-Activator/blob/main/README.KO.md)
 
 # 데스티니 가디언즈 솔로모드 활성기
 가장 간단한 데스티니 가디언즈 솔로모드 활성기: D2Solo
